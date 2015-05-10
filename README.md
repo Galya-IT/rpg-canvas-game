@@ -1,14 +1,17 @@
 # rpg-canvas-game
 NOTE: On Chrome browser the game is working on live server, but not on localhost due to
 Chrome bug where the browser considers file:// path as url to another domain (crossdomain
-security issue). Please take a look at our live demo or use another browser.
+security issue). Please use another browser.
 
 Disclaimer: Играта не е довършена.
 
 Използвани технологии:
- Kinetic JS
- Raphaël JS
- JQuery
+
+-Kinetic JS
+
+-Raphaël JS
+
+-JQuery
 
 Цел на проекта: Да се създаде RPG игра за браузър.
 
@@ -19,5 +22,13 @@ Disclaimer: Играта не е довършена.
 връща 50 точки към живота. Когато точките на живота достигнат 0, играта свършва.
 
 Контроли:
- Space - изстрел
- Arrows - движение в съответната посока
+
+* Space - изстрел
+
+* Arrows - движение в съответната посока
+
+Screens:
+
+![alt tag](https://raw.github.com/Galya-IT/rpg-canvas-game/master/screens/gameplay.png)
+
+![alt tag](https://raw.github.com/Galya-IT/rpg-canvas-game/master/screens/gameover.png)
